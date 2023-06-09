@@ -3,14 +3,14 @@
   <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;5+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
 </p>
 <div>
- <h3 align="center">Full Stack Developer with 6+ years of Web and Mobile Applications</h3>
+ <h2 align="center">Full Stack Developer with 6+ years of Web and Mobile App Development</h2>
  🔸 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
  🔸 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
  🔸 Developed some AI Apps and integrated with web and ChatGPT.<br/>
  🔸 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 </div>
 
-# Main Program Languages and Tools
+<h3 align="center">Main Skills and Tools</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -29,8 +29,12 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
@@ -39,10 +43,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
@@ -111,10 +111,10 @@
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
+    </td>    
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
