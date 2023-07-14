@@ -2,7 +2,7 @@
 
 <div>
  <h2 align="center">Full Stack - React, Flutter, Node, Django Engineer</h2>
- 🔸 Proficient in Flutter & Dart for iOS, Android, Wep App Development<br/>
+ 🔸 Proficient in React, Flutter, Node.js, Django App Development<br/>
  🔸 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
  🔸 Developed some AI Apps and integrated with web and ChatGPT.<br/>
  🔸 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
